@@ -52,6 +52,7 @@ Use this template as your first Pull Request "Add basic index.html".
 ## Bonus
 
 - Use GitHub issues to track tasks that you are doing on this project.
+- Deploy the Resume on GitHub pages.
 
 ## Links
 
