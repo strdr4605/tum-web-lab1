@@ -38,6 +38,8 @@ Use this template as your first Pull Request "Add basic index.html".
 
 **Each section should be added to the page in a separate Pull Request.**
 
+**The lab should be done in class.**
+
 ## Bonus
 
 - Use GitHub issues to track tasks that you are doing on this project.
