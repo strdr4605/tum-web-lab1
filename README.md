@@ -44,6 +44,11 @@ Use this template as your first Pull Request "Add basic index.html".
 
 **Don't use merge commits, always rebase or squash PRs.**
 
+## Git tasks
+
+- rename your last commit on the master branch to the same message but using https://emojiterra.com/translator/
+- Include `<meta name="author" content="[Your Name]">` in changes of the commit second to last
+
 ## Bonus
 
 - Use GitHub issues to track tasks that you are doing on this project.
