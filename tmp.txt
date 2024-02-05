@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Coretchi Mihai - CV/Resume</title>
+  </head>
+
+  <body>
+    <h1>CV</h1>
+    <h2>Coretchi Mihai</h2>
+    <div>
+    <h3>Contacts</h3>
+    <p>Email: mihai.coretchi@isa.utm.md</p>
+</div>
+<div>
+    <h3>Description</h3>
+    <p>My name is Coretchi Mihai. I am a student at Technical University of Moldova. I am studying at the Faculty of Computers, Informatics and Microelectronics. I am a third year student. I am studying the Software Engineering specialization. I am a hardworking person and I am always trying to improve my skills. I am a fast learner and I am always trying to learn new things. I am a responsible person and I am always trying to do my best in everything I do.</p>
+</div>
+<div>
+    <h3>Education</h3>
+    <h4>Theoretical Lyceum "Ion Creanga"</h4>
+<p>Favorite course: Physical Education</p>
+    <h4>Technical University of Moldova, Faculty of Computers, Informatics and Microelectronics, Software Engineering, 2021 - present</h4>
+<p>Favorite course: TMPS</p>
+</div>
+<div>
+    <h3>Links</h3>
+    <p><a href="https://github.com/eamtcPROG/api-transport" target="_blank" no-referrer rel>React and NodeJs Project</a></p>
+    <p><a href="https://github.com/eamtcPROG" target="_blank" no-referrer rel>My GitHub</a></p>
+</div>
+</html>
