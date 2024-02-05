@@ -38,6 +38,10 @@ Use this template as your first Pull Request "Add basic index.html".
 
 **Each section should be added to the page in a separate Pull Request.**
 
+## Bonus
+
+- Use GitHub issues to track tasks that you are doing on this project.
+
 ## Links
 
 - https://www.w3schools.com/html/html_basic.asp
