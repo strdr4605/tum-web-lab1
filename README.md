@@ -2,21 +2,21 @@
 
 ## Fork this repo
 
-- Create a fork of this repo in your Github profile
-- Clone your forked repo on local machine
+- Create a fork of this repo in your GitHub profile
+- Clone your forked repo on the local machine
 
 ## Create your Resume page
 
-Create an HTML page that will represent your CV/Resume that you will send to your desired opened job position.
+Create an HTML page representing your CV/Resume that you will send to your desired opened job position.
 
 The page should have multiple sections:
 
-- Basic information such as: Name, Surname, contact details,
-- A personal or profesional description of 2-3 sentences, for example: "I enjoy drawing..., I aspire to become a specialized front-end programmer..."
+- Basic information such as Name, Surname, contact details,
+- A personal or professional description of 2-3 sentences, for example: "I enjoy drawing..., I aspire to become a specialized front-end programmer..."
 - Education (School, College)
   - For each point in education, add information about a favorite course or a pleasant memory.
 - Projects that you worked on.
-  - Link to the projects, technologies used.
+  - Link to the projects, and technologies used.
 - (Any other section you believe is necessary)
 
 Use HTML tags that you think are relevant.
