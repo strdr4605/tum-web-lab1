@@ -1,0 +1,14 @@
+.cv-heading {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    .cv-heading__picture {
+        img {
+            border-radius: 50px;
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+        }
+    }
+}
