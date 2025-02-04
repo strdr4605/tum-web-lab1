@@ -40,7 +40,9 @@ Use this template as your first Pull Request "Add basic index.html".
 
 **The lab should be done in class.**
 
-**Creating a PR into this repo is forbidden and punished with -1 point**
+**Creating a PR into this repo is forbidden and punished with -1 point.**
+
+**Don't use merge commits, always rebase or squash PRs.**
 
 ## Bonus
 
