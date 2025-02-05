@@ -23,7 +23,7 @@ section {
 }
 
 section h1,
-section h2 {
+section h3 {
   color: #025a5f;
   font-family: "Arial", sans-serif;
   font-weight: bold;
@@ -31,4 +31,18 @@ section h2 {
   padding-bottom: 5px;
   border-bottom: 1px solid #025a5f;
   display: inline-block;
+}
+h6,
+i {
+  color: #025a5f;
+  margin-left: 20px;
+}
+h5 {
+  opacity: 0.6;
+}
+i {
+  margin-right: 10px;
+}
+.educClass {
+  margin-left: 10px;
 }
