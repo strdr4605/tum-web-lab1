@@ -44,6 +44,10 @@ Use this template as your first Pull Request "Add basic index.html".
 
 **Don't use merge commits, always rebase or squash PRs.**
 
+## Another section
+
+Here is the description
+
 ## Bonus
 
 - Use GitHub issues to track tasks that you are doing on this project.
